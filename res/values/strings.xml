@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BirdWatching</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_birds_info">BirdsInfo</string>
+
+    <string-array name="birds">
+        <item>bitterns</item>
+        <item>chickens</item>
+        <item>coots</item>
+        <item>cormorants</item>
+        <item>cranes</item>
+        <item>dotterel</item>
+        <item>doves</item>
+        <item>eagles</item>
+        <item>falcons</item>
+    </string-array>
+    <string-array name="languages">
+        <item>English</item>
+        <item>Deutsch</item>
+        <item>française</item>
+    </string-array>
+
+    <string name="title_activity_web">WebActivity</string>
+    <string name="title_activity_dboperation">DBOperation</string>
+    <string name="title_activity_sms">SMSActivity</string>
+
+</resources>
