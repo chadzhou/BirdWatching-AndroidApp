@@ -1,7 +1,7 @@
 BirdWatching
 ============
 Project statement:<br/>
-https://courses.smu.edu/bbcswebdav/pid-1647469-dt-content-rid-2149526_1/courses/CSE7345-701C-1137/cse7345%20Fall%202013%20Final%20Exam.pdf <br/>
+https://docs.google.com/file/d/0B8_SOV57YQChelg3cGYteFRnNXM/edit <br/>
 
 Since the introduction to this video can be so large when I record it as a whole, I separate the contents in 5 small parts<br/>
 https://www.youtube.com/watch?v=D9Y8VYhz2qY<br/>
